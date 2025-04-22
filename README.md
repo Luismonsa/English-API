@@ -1,5 +1,5 @@
 # English-API
-Repositorio con fines didácticos
+Repositorio con propositos didácticos
 // Speak It Right - Pronunciation Tutor (React + PWA Compatible)
 
 import { useState, useRef } from "react";
